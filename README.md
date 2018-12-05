@@ -1,10 +1,9 @@
 # NOVUS-VR
-Magraz
-Laboratorio de Química VR
-Este es el primer bosquejo
-dnfasbdfbasdfasdfasdf
-ajjaj
 
+Bichos-branch
+PUTO EL QUE Y lea
+Y EL QUE LO ESCRIBE TAMBIEN
 
  master
 JODER TIO
+ master
