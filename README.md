@@ -3,4 +3,5 @@ Laboratorio de Química VR
 Este es el primer bosquejo
 
 
-PUTO EL QUE LO LEA
+PUTO EL QUE Y lea
+Y EL QUE LO ESCRIBE TAMBIEN
