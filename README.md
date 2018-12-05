@@ -1,9 +1,4 @@
 # NOVUS-VR
+Laboratorio de Química VR
 
-Bichos-branch
-PUTO EL QUE Y lea
-Y EL QUE LO ESCRIBE TAMBIEN
-
- master
-JODER TIO
- master
+HOLA CESAR
